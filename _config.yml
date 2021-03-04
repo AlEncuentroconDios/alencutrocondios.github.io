@@ -9,7 +9,7 @@ name: Al Encuentro con Dios
 description: Aquí encontraras recursos de la Liturgia de la Iglesia Católica, que te ayudarán a fortalecerte en la fe.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars.githubusercontent.com/u/80025979?s=460&u=9e7b8ee7ef27233f578188572e4b8c73f30e45d5&v=4
+avatar: https://avatars.githubusercontent.com/u/80025979
 
 
 #
@@ -29,7 +29,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: # UCrfExLfkurCBGp3sFicdwHg
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -42,7 +42,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://AlEncuentroconDios.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
