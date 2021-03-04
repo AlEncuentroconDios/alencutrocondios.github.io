@@ -4,7 +4,7 @@ title: Mes de San José Día 3
 ---
 
 
-<p align="center">
+<p align="center"> 
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=QJaLCCcoS3c" target="_blank"><img src="http://img.youtube.com/vi/QJaLCCcoS3c/0.jpg" 
 alt="Glorioso Mes de San José" width="746" height="420" border="10" /></a>
 </p>
